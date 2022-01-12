@@ -10,7 +10,7 @@ My LinkedIn profile: https://www.linkedin.com/in/chinmaya-kaundanya-305b51150/
 | 4    | **How machines learn images**                | https://bit.ly/3JLjB2e |
 | 5    | **Challenges in Image Classification**       | https://bit.ly/31x8fgM |
 | 6    | **Supervised Learning of images**            | https://bit.ly/3n3eW1w |
-
+| 7    | **Unsupervised and Semi-supervised Learning of images**  | https://bit.ly/3rdcIxT |
 **Thank you for reading 😃 let me know your thoughts or suggestions! 📝**
 
 ----
