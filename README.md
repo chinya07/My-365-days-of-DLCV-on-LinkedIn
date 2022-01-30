@@ -23,6 +23,17 @@ My LinkedIn profile: https://www.linkedin.com/in/chinmaya-kaundanya-305b51150/
 | 17   | **'Hello World' of Image Classification (Part 1)**       | https://bit.ly/3KZfTlS |
 | 18   | **'Hello World' of Image Classification (Part 2)**       | https://bit.ly/3AHQMzo |
 | 19   | **'Hello World' of Image Classification (Part 3)**       | https://bit.ly/3KUAUhM |
+| 20   | **Is DL always necessary for Image Classification?**     | https://bit.ly/33Wu22U |
+| 21   | **Hyperparameters of KNN for Image Classification**      | https://bit.ly/3HeIRfB |
+| 22   | **Thoughts on KNN for Image Classification**             | https://bit.ly/3IPmeyt |
+| 23   | **Data as Tensors (Part 1)**                             | https://bit.ly/3ISrwJs |
+| 24   | **Data as Tensors (Part 2)**                             | https://bit.ly/32MCCk4 |
+| 25   | **Representation of real-world data as Tensors (Images)**| https://bit.ly/3HiqzK8 |
+| 26   | **Representation of real-world data as Tensors (Videos)**| https://bit.ly/34fo64F |
+| 27   | **Tensor operations (Element-wise)**                     | https://bit.ly/3rcACL8 |
+| 28   | **Tensor operations (Broadcasting)**                     | https://bit.ly/3KSA6dc |
+| 29   | **Tensor operations (Reshaping)**                        | https://bit.ly/3u8Y6mx |
+| 30   | **Tensor operations (Tensor product)**                   | https://bit.ly/3KWlsSg |
 
 **Thank you for reading 😃 let me know your thoughts or suggestions! 📝**
 
