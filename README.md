@@ -1,4 +1,4 @@
-## My 365 Days of Computer Vision and Deep Learning on LinkedIn
+## My 90 Days of Computer Vision and Deep Learning on LinkedIn
 
 My LinkedIn profile: https://www.linkedin.com/in/chinmaya-kaundanya-305b51150/
 
